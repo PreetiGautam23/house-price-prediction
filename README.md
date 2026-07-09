@@ -1,4 +1,4 @@
-# House Price Prediction Web App — CodTech Internship (Task 3)
+# House Price Prediction Web App
 
 ## Overview
 
@@ -60,5 +60,3 @@ http://127.0.0.1:5000
 An end-to-end Machine Learning web application using Flask that demonstrates data preprocessing, model training, prediction, and deployment, fulfilling the requirements of **CodTech Data Science Internship – Task 3**.
 
 ---
-
-*Part of the CodTech IT Solutions Data Science Internship — Task 3: End-to-End Data Science Project.*
